@@ -29,7 +29,7 @@ Le temps indiqué est un lien direct vers la vidéo de la conférence et le titr
 * [2:26:50](https://youtube.com/watch?v=8n1TDR-8WVE&t=2h26m50s) — **[Design et accessibilité, frères d'arme ou ennemis ?](https://speakerdeck.com/judbd/design-et-accessibilite-freres-darme-ou-ennemis)** - *Julien Dubedout et Aurélien Levy*
 * [3:14:00](https://youtube.com/watch?v=8n1TDR-8WVE&t=3h14m0s) — **Let's Work Together !** - *Brad Frost*
 
-*[06/10 Après-midi](https://youtube.com/watch?v=R442BQQ82YM)*
+*[Après-midi](https://youtube.com/watch?v=R442BQQ82YM)*
 
 * [0:05:30](https://youtube.com/watch?v=R442BQQ82YM&t=5m30s) — **La décentralisation qui vient** - *Christopher Talib*
 * [0:58:25](https://youtube.com/watch?v=R442BQQ82YM&t=58m25s) — **Designing the Conversation** - *Aaron Gustafson*
