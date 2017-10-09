@@ -1,5 +1,7 @@
 # Conférences Paris Web 2017
 
+Le temps indiqué est un lien direct vers la vidéo de la conférence et le titre de celle-ci est un lien vers le support de présentation si celui-ci est disponible.
+
 ## Auditorium Descartes
 ### 05 Octobre 2017
 *[Matin](https://youtube.com/watch?v=iN7b312ZDU4)*
