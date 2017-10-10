@@ -77,3 +77,26 @@ Le temps indiqué est un lien direct vers la vidéo de la conférence et le titr
 * [2:32:00](https://youtube.com/watch?v=o9xInoZgZ4o&t=2h32m0s) — **[Guide de survie front-end en environnement .NET](https://www.kloh.ch/pw2017/)** - *Luc Poupard*
 * [2:47:18](https://youtube.com/watch?v=o9xInoZgZ4o&t=2h47m18s) — **[Quel sera le web de demain ?](https://www.paris-web.fr/2017/media/PW2017-LeWebDeDemain.pdf)** - *Valérie Galassi*
 * [3:09:20](https://youtube.com/watch?v=o9xInoZgZ4o&t=3h09m20s) — **Échapper au ‘zombie styleguide’ : 3 méthodes pour armer une équipe dans la conception de son styleguide** - *Thibault Mahe*
+
+---
+
+## Ateliers
+
+Les ateliers ne sont malheureusement pas filmés, néanmoins, voici les liens des supports de présentations pour ceux disponibles.  
+**Note:** ces liens sont [également disponibles sur le site de Paris Web](https://www.paris-web.fr/2017/07.php), mais sont également regroupés ici pour un accès simplifié complémentaire aux liens des vidéos de conférences.
+
+* **[Le web à la poursuite des applications natives avec les Progressive Web Apps](https://www.paris-web.fr/www/www/2017/media/PW2017-PWA.pdf)** - *Xavier Julien et Clément Dubois*
+* **Des composants accessibles et de qualité, le double effet kiss cool** - *Aurélien Levy et Nicolas Hoffmann*
+* **[Web responsable : éco-concevons un site ensemble !](https://www.paris-web.fr/2017/media/PW2017-Webresponsable-ecoconcevonsunsiteensemble.pdf)** - *Jean-Christophe Saintenoy et Frédéric Bordage*
+* **[Intégrer correctement un e-mail, c'est possible ! Démonstration en 1h30](https://www.paris-web.fr/2017/media/PW2017-integrer-email.pdf)** - *Sébastien Lejeune*
+* **Initiation à la direction artistique pour le web** - *Julien Dubedout*
+* **Prioriser les critères d'ergonomie avec l'accessibilité, yeah !** - *Vincent Aniort et Patricia Loubet*
+* **Décliner des sites statiques performants avec un GSS (Jekyll, Hugo…)** - *Bertrand Keller*
+* **[Construire une architecture d'information adaptée au mobile](https://speakerdeck.com/stephaniewalter/atelier-paris-web-une-architecture-dinformation-adaptee-au-mobile)** - *Stéphanie Walter*
+* **Comment passer de la conception web au prototypage d'une fusée ?** - *Willy Leloutre et Olivier Furin*
+* **[Atelier hygiène numérique](https://www.paris-web.fr/2017/media/PW2017-Delphine-Malassingne-UnPasDePlusVersMonHygieneNumerique-201710.pdf)** [[PDF](https://www.paris-web.fr/2017/media/PW2017-mavienumeriquepassifacile.pdf)] - *Delphine Malassingne*
+* **[Webpack comme des grand·e·s !](https://deliciousinsights.github.io/pw2017-webpack/)** - *Christophe Porteneuve*
+* **Questionner son cahier des charges** - *David Bruant et Clémentine Hahn*
+* **[CSP : C'est Super Palpitant](https://www.nicolas-hoffmann.net/content-security-policy-paris-web-2017/#/)** - *Nicolas Hoffmann*
+* **Comment évaluer des composants dynamiques à l'aide d'un lecteur d'écran ?** - *Sylvie Duchateau et Florian Sanders*
+* **Plan de vol : Ground Control to Major Tom** - *Sarah Haïm et Éric Daspet*
