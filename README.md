@@ -51,7 +51,7 @@ Le temps indiqué est un lien direct vers la vidéo de la conférence et le titr
 * [1:31:10](https://youtube.com/watch?v=QZxWHZE02ag&t=1h31m10s) — **[La revue de code (bienveillante)](https://www.paris-web.fr/2017/media/PW2017-La-revue-de-code-bienveillante.pdf)** - *Gilles Roustan*
 * [2:20:25](https://youtube.com/watch?v=QZxWHZE02ag&t=2h20m25s) — **L’informatique est trop importante pour être laissée aux hommes** - *Nathalie Pauchet*
 * [2:38:47](https://youtube.com/watch?v=QZxWHZE02ag&t=2h38m47s) — **[Souriez (?) #GDPR, #PrivacyByDesign, #PrivacyByDefault deviennent réalité !](https://www.paris-web.fr/2017/media/PW2017-gdprprivacybydesignprivacy.pdf)** - *Stéphane Lebarque*
-* [2:54:28](https://youtube.com/watch?v=QZxWHZE02ag&t=2h54m28s) — **UX en agence, 5 ans pour s’y mettre « en vrai »** - *Nicolas Le Cam*
+* [2:54:28](https://youtube.com/watch?v=QZxWHZE02ag&t=2h54m28s) — **[UX en agence, 5 ans pour s’y mettre « en vrai »](https://docs.google.com/presentation/d/1FFvASYYfLmHIdb2N6FNIMn0Jb7v9Q1ZGe5a48u47Nk4/edit)** - *Nicolas Le Cam*
 
 *[Après-midi](https://youtube.com/watch?v=bXzN0e0oM3E)*
 
