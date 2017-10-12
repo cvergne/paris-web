@@ -58,7 +58,7 @@ Le temps indiqué est un lien direct vers la vidéo de la conférence et le titr
 * [0:16:00](https://youtube.com/watch?v=bXzN0e0oM3E&t=16m0s) — **[Change notre façon de concevoir une API avec GraphQL](https://spyl.net/slides/parisweb-2017.html#/)** - *Aurélien David*
 * [0:54:55](https://youtube.com/watch?v=bXzN0e0oM3E&t=54m55s) — **[Namaste qualité](http://slides.com/mterrier/namastequalite)** - *Marie Terrier*
 * [1:34:10](https://youtube.com/watch?v=bXzN0e0oM3E&t=1h34m10s) — **[Lecteurs d’écran : le choc des titans](https://www.paris-web.fr/2017/media/PW2017-SylvieDuchateau-LecteursDEcran)** - *Sylvie Duchateau*
-* [2:39:30](https://youtube.com/watch?v=bXzN0e0oM3E&t=2h39m30s) — **[Améliorer la Performance : entre réalité et perception](https://www.paris-web.fr/2017/media/PW2017-SylvieDuchateau-LecteursDEcran)** - *Geoffrey Crofte*
+* [2:39:30](https://youtube.com/watch?v=bXzN0e0oM3E&t=2h39m30s) — **[Améliorer la Performance : entre réalité et perception](https://geoffrey.crofte.fr/conferences/paris-web-2017.pdf)** ([Slideshare](https://fr.slideshare.net/GeoffreyCrofte/amliorer-la-performance-entre-code-et-tricheries/), [SpeakerDeck](https://speakerdeck.com/creativejuiz/ameliorer-la-performance-entre-realite-et-ressenti/)) - *Geoffrey Crofte*
 * [3:34:35](https://youtube.com/watch?v=bXzN0e0oM3E&t=3h34m35s) — **Rendez-vous en terre inconnue** - *Matthieu Bué*
 
 ### 06 Octobre 2017
