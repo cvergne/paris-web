@@ -32,7 +32,7 @@ Le temps indiqué est un lien direct vers la vidéo de la conférence et le titr
 *[Après-midi](https://youtube.com/watch?v=R442BQQ82YM)*
 
 * [0:05:30](https://youtube.com/watch?v=R442BQQ82YM&t=5m30s) — **La décentralisation qui vient** - *Christopher Talib*
-* [0:58:25](https://youtube.com/watch?v=R442BQQ82YM&t=58m25s) — **Designing the Conversation** - *Aaron Gustafson*
+* [0:58:25](https://youtube.com/watch?v=R442BQQ82YM&t=58m25s) — **[Designing the Conversation](https://www.slideshare.net/AaronGustafson/designing-the-conversation-paris-web-2017)** - *Aaron Gustafson*
 * [2:13:00](https://youtube.com/watch?v=R442BQQ82YM&t=2h13m0s) — **Surdité et accessibilité du web** - *Fanny C.*
 * [2:30:55](https://youtube.com/watch?v=R442BQQ82YM&t=2h30m55s) — **[De l’accessibilité vite fait, bien fait](https://www.mylene-chandelier.me/pw17/)** - *Mylène Chandelier*
 * [2:46:00](https://youtube.com/watch?v=R442BQQ82YM&t=2h46m00s) — **De mes 100 échecs, j’ai fait une application de communication universelle** - *Olivier Jeannel*
