@@ -14,7 +14,7 @@ Le temps indiqué est un lien direct vers la vidéo de la conférence et le titr
 
 *[Après-midi](https://youtube.com/watch?v=6sbg2SzArkQ)*
 
-* [0:45:00](https://youtube.com/watch?v=6sbg2SzArkQ&t=45m0s) — **HTML re-invented for the age of web apps** - *Lea Verrou*
+* [0:45:00](https://youtube.com/watch?v=6sbg2SzArkQ&t=45m0s) — **HTML re-invented for the age of web apps** - *Lea Verou*
 * [0:54:10](https://youtube.com/watch?v=6sbg2SzArkQ&t=54m10s) — **[Les questions oubliées des spécifications : La partie cachée de l’iceberg site web](https://youtube.com/watch?v=iN7b312ZDU4)** - *Sylvie Clément*
 * [1:14:18](https://youtube.com/watch?v=6sbg2SzArkQ&t=1h14m18s) — **[« C’est la faute de l’utilisateur » — Où est passée l’empathie de mon équipe ?](https://www.paris-web.fr/2017/media/PW2017-empathie.pdf)** - *My Lê*
 * [1:35:10](https://youtube.com/watch?v=6sbg2SzArkQ&t=1h35m10s) — **Designing BBC Account: with BIG DATA comes BIG RESPONSIBILITY** - *Cyrièle Piancastelli*
