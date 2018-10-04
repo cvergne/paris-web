@@ -47,8 +47,8 @@ Celui-ci contient généralement le support de présentation de la conférence, 
 * [0:07:30](https://www.youtube.com/watch?v=5V9UiaSmnBg&t=7m30s) — [**Le W3C pour les développeurs Web**](https://www.paris-web.fr/2018/conferences/le-w3c-pour-les-developeurs-web.php) - *Dominique Hazael-Massieux*
 * [0:44:45](https://www.youtube.com/watch?v=5V9UiaSmnBg&t=44m45s) — [**L’IA et la fin du Silicium : introduction aux ordinateurs quantiques**](https://www.paris-web.fr/2018/conferences/lia-et-la-fin-du-silicium-introduction-aux-ordinateurs-quantiques.php) - *David Rousset*
 * [1:48:50](https://www.youtube.com/watch?v=5V9UiaSmnBg&t=1h48m50s) — [**[Sponsor] - Capitaine Flemme !**](https://www.paris-web.fr/2018/conferences/sponsor---capitaine-flemme.php) - *Maxime Bréhin*
-* ~~[0:00:00](https://www.youtube.com/watch?v=) — [**RGPD & ePrivacy : ce que vous devez savoir pour votre site**](https://www.paris-web.fr/2018/conferences/rgpd-eprivacy-ce-que-vous-devez-savoir-pour-votre-site.php) - *Laurie-Anne Bourdain*~~
-* ~~[0:00:00](https://www.youtube.com/watch?v=) — [**Cultivez la bienveillance en mode projet**](https://www.paris-web.fr/2018/conferences/cultivez-la-bienveillance-en-mode-projet.php) - *Audrey Buffières et Audrey Vittecoq-Laporte*~~
+* [2:42:57](https://www.youtube.com/watch?v=5V9UiaSmnBg&t=2h42m57s) — [**RGPD & ePrivacy : ce que vous devez savoir pour votre site**](https://www.paris-web.fr/2018/conferences/rgpd-eprivacy-ce-que-vous-devez-savoir-pour-votre-site.php) - *Laurie-Anne Bourdain*
+* [3:37:08](https://www.youtube.com/watch?v=5V9UiaSmnBg&t=3h37m08s) — [**Cultivez la bienveillance en mode projet**](https://www.paris-web.fr/2018/conferences/cultivez-la-bienveillance-en-mode-projet.php) - *Audrey Buffières et Audrey Vittecoq-Laporte*
 
 ### ~~05 Octobre 2018~~
 ~~*[Matin]()*~~
