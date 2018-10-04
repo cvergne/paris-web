@@ -1,7 +1,7 @@
 # Conférences Paris Web 2018
 
-Le temps indiqué est un lien direct vers la vidéo de la conférence et le titre de celle-ci est un lien vers la description de la conférence sur le site officiel de [Paris-Web](https://www.paris-web.fr).  
-Celui-ci contient généralement le support de présentation de la conférence, la restranscription puis plus tard la vidéo de la conférence.  
+Le temps indiqué est un lien direct vers la vidéo de la conférence et le titre de celle-ci est un lien vers la description de la conférence sur le site officiel de [Paris-Web](https://www.paris-web.fr).
+Celui-ci contient généralement le support de présentation de la conférence, la restranscription puis plus tard la vidéo de la conférence.
 
 ## Grand Amphithéatre Descartes
 ### 04 Octobre 2018
@@ -19,7 +19,7 @@ Celui-ci contient généralement le support de présentation de la conférence, 
 * [1:37:10](https://www.youtube.com/watch?v=ZNBGieeOLcU&t=1h37m00s) — [**La donnée graphique avec HTML et CSS**](https://www.paris-web.fr/2018/conferences/la-donnee-graphique-avec-html-et-css.php) - *Gaël Poupard*
 * ~~[0:00:00](https://www.youtube.com/watch?v=) — [**Dear Developer, the Web Isn't About You**](https://www.paris-web.fr/2018/conferences/dear-developer-the-web-isnt-about-you.php) - *Charlie Owen*~~
 * ~~[0:00:00](https://www.youtube.com/watch?v=) — [**L’accessibilité au-delà des spécifications**](https://www.paris-web.fr/2018/conferences/L-accessibilite-au-dela-des-specifications.php) - *Hugo Giraudel*~~
-  
+
 ### ~~05 Octobre 2018~~
 ~~*[Matin]()*~~
 
@@ -42,14 +42,14 @@ Celui-ci contient généralement le support de présentation de la conférence, 
 * [0:13:23](https://www.youtube.com/watch?v=qYgqTpdPmTo&t=13m23s) — [**UX en Terre Inconnue**](https://www.paris-web.fr/2018/conferences/ux-en-terre-inconnue.php) - *Sébastien Desbenoit*
 * [1:32:00](https://www.youtube.com/watch?v=qYgqTpdPmTo&t=1h32m00s) — [**Les WebExtensions, du rêve et du cauchemar**](https://www.paris-web.fr/2018/conferences/les-webextensions-du-reve-et-du-cauchemar.php) - *Daniel Glazman*
 
-~~*[Après-midi]()*~~
+*[Après-midi](https://www.youtube.com/watch?v=5V9UiaSmnBg)*
 
-* ~~[0:00:00](https://www.youtube.com/watch?v=) — [**Le W3C pour les développeurs Web**](https://www.paris-web.fr/2018/conferences/le-w3c-pour-les-developeurs-web.php) - *Dominique Hazael-Massieux*~~
-* ~~[0:00:00](https://www.youtube.com/watch?v=) — [**L’IA et la fin du Silicium : introduction aux ordinateurs quantiques**](https://www.paris-web.fr/2018/conferences/lia-et-la-fin-du-silicium-introduction-aux-ordinateurs-quantiques.php) - *David Rousset*~~
-* ~~[0:00:00](https://www.youtube.com/watch?v=) — [**[Sponsor] - Capitaine Flemme !**](https://www.paris-web.fr/2018/conferences/sponsor---capitaine-flemme.php) - *Maxime Bréhin*~~
+* [0:07:30](https://www.youtube.com/watch?v=5V9UiaSmnBg&t=7m30s) — [**Le W3C pour les développeurs Web**](https://www.paris-web.fr/2018/conferences/le-w3c-pour-les-developeurs-web.php) - *Dominique Hazael-Massieux*
+* [0:44:45](https://www.youtube.com/watch?v=5V9UiaSmnBg&t=44m45s — [**L’IA et la fin du Silicium : introduction aux ordinateurs quantiques**](https://www.paris-web.fr/2018/conferences/lia-et-la-fin-du-silicium-introduction-aux-ordinateurs-quantiques.php) - *David Rousset*
+* [1:48:50](https://www.youtube.com/watch?v=5V9UiaSmnBg&t=1h48m50s) — [**[Sponsor] - Capitaine Flemme !**](https://www.paris-web.fr/2018/conferences/sponsor---capitaine-flemme.php) - *Maxime Bréhin*
 * ~~[0:00:00](https://www.youtube.com/watch?v=) — [**RGPD & ePrivacy : ce que vous devez savoir pour votre site**](https://www.paris-web.fr/2018/conferences/rgpd-eprivacy-ce-que-vous-devez-savoir-pour-votre-site.php) - *Laurie-Anne Bourdain*~~
 * ~~[0:00:00](https://www.youtube.com/watch?v=) — [**Cultivez la bienveillance en mode projet**](https://www.paris-web.fr/2018/conferences/cultivez-la-bienveillance-en-mode-projet.php) - *Audrey Buffières et Audrey Vittecoq-Laporte*~~
-  
+
 ### ~~05 Octobre 2018~~
 ~~*[Matin]()*~~
 
