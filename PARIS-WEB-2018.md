@@ -12,13 +12,13 @@ Celui-ci contient généralement le support de présentation de la conférence, 
 * [1:30:52](https://www.youtube.com/watch?v=qYgqTpdPmTo&t=1h30m52s) — [**History of Web Security**](https://www.paris-web.fr/2018/conferences/mozilla-observatory-a-history-of-web-security-standards.php) - *April King*
 * [2:46:03](https://www.youtube.com/watch?v=qYgqTpdPmTo&t=2h46m03s) — [**UX du futur : au-delà des buzzwords**](https://www.paris-web.fr/2018/conferences/ux-du-futur-au-dela-des-buzzwords.php) - *Amélie Boucher*
 
-~~*[Après-midi]()*~~
+*[Après-midi](https://www.youtube.com/watch?v=ZNBGieeOLcU)*
 
-* ~~[0:00:00](https://www.youtube.com/watch?v=) — [**Se construire en construisant l’open-source**](https://www.paris-web.fr/2018/conferences/se-construire-en-construisant-lopen-source.php) - *JB Audras*~~
-* ~~[0:00:00](https://www.youtube.com/watch?v=) — [**Publishing across platforms**](https://www.paris-web.fr/2018/conferences/publishing-across-platforms.php) - *Chris Ashton*~~
+* [0:00:00](https://www.youtube.com/watch?v=ZNBGieeOLcU) — [**Se construire en construisant l’open-source**](https://www.paris-web.fr/2018/conferences/se-construire-en-construisant-lopen-source.php) - *JB Audras*
+* [0:28:06](https://www.youtube.com/watch?v=ZNBGieeOLcU&t=28m06s) — [**Publishing across platforms**](https://www.paris-web.fr/2018/conferences/publishing-across-platforms.php) - *Chris Ashton*
 * [1:37:10](https://www.youtube.com/watch?v=ZNBGieeOLcU&t=1h37m00s) — [**La donnée graphique avec HTML et CSS**](https://www.paris-web.fr/2018/conferences/la-donnee-graphique-avec-html-et-css.php) - *Gaël Poupard*
-* ~~[0:00:00](https://www.youtube.com/watch?v=) — [**Dear Developer, the Web Isn't About You**](https://www.paris-web.fr/2018/conferences/dear-developer-the-web-isnt-about-you.php) - *Charlie Owen*~~
-* ~~[0:00:00](https://www.youtube.com/watch?v=) — [**L’accessibilité au-delà des spécifications**](https://www.paris-web.fr/2018/conferences/L-accessibilite-au-dela-des-specifications.php) - *Hugo Giraudel*~~
+* [2:28:34](https://www.youtube.com/watch?v=ZNBGieeOLcU&t=2h28m34s) — [**Dear Developer, the Web Isn't About You**](https://www.paris-web.fr/2018/conferences/dear-developer-the-web-isnt-about-you.php) - *Charlie Owen*
+* [3:23:00](https://www.youtube.com/watch?v=ZNBGieeOLcU&t=3h23m00s) — [**L’accessibilité au-delà des spécifications**](https://www.paris-web.fr/2018/conferences/L-accessibilite-au-dela-des-specifications.php) - *Hugo Giraudel*
 
 ### ~~05 Octobre 2018~~
 ~~*[Matin]()*~~
