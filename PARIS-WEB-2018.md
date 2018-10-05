@@ -20,7 +20,7 @@ Celui-ci contient généralement le support de présentation de la conférence, 
 * [2:28:34](https://www.youtube.com/watch?v=ZNBGieeOLcU&t=2h28m34s) — [**Dear Developer, the Web Isn't About You**](https://www.paris-web.fr/2018/conferences/dear-developer-the-web-isnt-about-you.php) - *Charlie Owen*
 * [3:23:00](https://www.youtube.com/watch?v=ZNBGieeOLcU&t=3h23m00s) — [**L’accessibilité au-delà des spécifications**](https://www.paris-web.fr/2018/conferences/L-accessibilite-au-dela-des-specifications.php) - *Hugo Giraudel*
 
-### ~~05 Octobre 2018~~
+### 05 Octobre 2018
 *[Matin](https://www.youtube.com/watch?v=HnDsr3EbaV4)*
 
 * ~~[0:00:00](https://www.youtube.com/watch?v=HnDsr3EbaV4) — [**Les jeux vidéo sont-ils des logiciels comme les autres ?**](https://www.paris-web.fr/2018/conferences/les-jeux-video-sont-ils-des-logiciels-comme-les-autres.php) - *Jérôme Dupire*~~
@@ -28,7 +28,7 @@ Celui-ci contient généralement le support de présentation de la conférence, 
 * ~~[0:00:00](https://www.youtube.com/watch?v=HnDsr3EbaV4) — [**Maîtriser SVG en 50'00**](https://www.paris-web.fr/2018/conferences/maitriser-svg-en-50-minutes.php) - *Jérémie Patonnier et Corinne Schillinger*~~
 * ~~[0:00:00](https://www.youtube.com/watch?v=HnDsr3EbaV4) — [**WCAG 2.1 : revue rapide et digestion lente**](https://www.paris-web.fr/2018/conferences/wcag-21-revue-rapide-et-digestion-lente.php) - *Aurélien Levy*~~
 
-~~*[Après-midi](https://www.youtube.com/watch?v=ymjVqWVtsOo)*~~
+*[Après-midi](https://www.youtube.com/watch?v=ymjVqWVtsOo)*
 
 * ~~[0:00:00](https://www.youtube.com/watch?v=ymjVqWVtsOo) — [**Create an Engaging Native App with Vue and NativeScript**](https://www.paris-web.fr/2018/conferences/create-an-engaging-native-app-with-vue-and-nativescript.php) - *Jen Looper*~~
 * ~~[0:00:00](https://www.youtube.com/watch?v=ymjVqWVtsOo) — [**L’ère de l’analyse à tout va, ou comment les applications nous rendent accro à leurs produits**](https://www.paris-web.fr/2018/conferences/lre-de-lanalyse-a-tout-va-ou-comment-les-applications-nous-rendent-accro-a-leurs-produits.php) - *Sabine Condiescu*~~
@@ -50,7 +50,7 @@ Celui-ci contient généralement le support de présentation de la conférence, 
 * [2:42:57](https://www.youtube.com/watch?v=5V9UiaSmnBg&t=2h42m57s) — [**RGPD & ePrivacy : ce que vous devez savoir pour votre site**](https://www.paris-web.fr/2018/conferences/rgpd-eprivacy-ce-que-vous-devez-savoir-pour-votre-site.php) - *Laurie-Anne Bourdain*
 * [3:37:08](https://www.youtube.com/watch?v=5V9UiaSmnBg&t=3h37m08s) — [**Cultivez la bienveillance en mode projet**](https://www.paris-web.fr/2018/conferences/cultivez-la-bienveillance-en-mode-projet.php) - *Audrey Buffières et Audrey Vittecoq-Laporte*
 
-### ~~05 Octobre 2018~~
+### 05 Octobre 2018
 *[Matin](https://www.youtube.com/watch?v=VnwzO0uNn6o)*
 
 * ~~[0:00:00](https://www.youtube.com/watch?v=VnwzO0uNn6o) — [**[Sponsor] - Donner le pouvoir de la donnée aux webapps**](https://www.paris-web.fr/2018/conferences/sponsor-donner-le-pouvoir-de-la-donnee-aux-webapps.php) - *Cyrille Perois*~~
