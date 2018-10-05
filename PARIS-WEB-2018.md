@@ -24,7 +24,7 @@ Celui-ci contient généralement le support de présentation de la conférence, 
 *[Matin](https://www.youtube.com/watch?v=HnDsr3EbaV4)*
 
 * ~~[0:00:00](https://www.youtube.com/watch?v=HnDsr3EbaV4) — [**Les jeux vidéo sont-ils des logiciels comme les autres ?**](https://www.paris-web.fr/2018/conferences/les-jeux-video-sont-ils-des-logiciels-comme-les-autres.php) - *Jérôme Dupire*~~
-* ~~[0:00:00](https://www.youtube.com/watch?v=HnDsr3EbaV4) — [**The Past, Present and Future of Resource Loading**](https://www.paris-web.fr/2018/conferences/the-past-present-and-future-of-resource-loading.php) - *Yoav Weiss*~~
+* [1:04:15](https://www.youtube.com/watch?v=HnDsr3EbaV4&t=1h4m15s) — [**The Past, Present and Future of Resource Loading**](https://www.paris-web.fr/2018/conferences/the-past-present-and-future-of-resource-loading.php) - *Yoav Weiss*
 * ~~[0:00:00](https://www.youtube.com/watch?v=HnDsr3EbaV4) — [**Maîtriser SVG en 50'00**](https://www.paris-web.fr/2018/conferences/maitriser-svg-en-50-minutes.php) - *Jérémie Patonnier et Corinne Schillinger*~~
 * ~~[0:00:00](https://www.youtube.com/watch?v=HnDsr3EbaV4) — [**WCAG 2.1 : revue rapide et digestion lente**](https://www.paris-web.fr/2018/conferences/wcag-21-revue-rapide-et-digestion-lente.php) - *Aurélien Levy*~~
 
