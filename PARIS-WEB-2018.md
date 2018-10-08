@@ -60,7 +60,7 @@ Celui-ci contient généralement le support de présentation de la conférence, 
 
 *[Après-midi](https://www.youtube.com/watch?v=62fsK3vO0DU)*
 
-* [0:00:00](https://www.youtube.com/watch?v=62fsK3vO0DU) — [**Demain je serai dresseur d’Intelligences Artificielles**](https://www.paris-web.fr/2018/conferences/demain-je-serai-dresseur-dintelligences-artificielles.php) - *Xavier Vasques et Willy Leloutre*
-* ~~[0:00:00](https://www.youtube.com/watch?v=62fsK3vO0DU) — [**Les objets connectés liés à la santé portent-ils atteinte à la vie privée ?**](https://www.paris-web.fr/2018/conferences/les-objets-connectes-lies-a-la-sante-portent-ils-atteinte-a-la-vie-privee.php) - *Emmanuelle Aboaf*~~
-* ~~[0:00:00](https://www.youtube.com/watch?v=62fsK3vO0DU) — [**L'UX du X**](https://www.paris-web.fr/2018/conferences/lux-du-x.php) - *Quentin Bouissou*~~
+* [0:05:53](https://www.youtube.com/watch?v=62fsK3vO0DU&t=5m35s) — [**Demain je serai dresseur d’Intelligences Artificielles**](https://www.paris-web.fr/2018/conferences/demain-je-serai-dresseur-dintelligences-artificielles.php) - *Xavier Vasques et Willy Leloutre*
+* [1:04:15](https://www.youtube.com/watch?v=62fsK3vO0DU&t=1h04m15s) — [**Les objets connectés liés à la santé portent-ils atteinte à la vie privée ?**](https://www.paris-web.fr/2018/conferences/les-objets-connectes-lies-a-la-sante-portent-ils-atteinte-a-la-vie-privee.php) - *Emmanuelle Aboaf*
+* [1:57:15](https://www.youtube.com/watch?v=62fsK3vO0DU&t=1h57m15s) — [**L'UX du X**](https://www.paris-web.fr/2018/conferences/lux-du-x.php) - *Quentin Bouissou*
 * [2:58:24](https://www.youtube.com/watch?v=62fsK3vO0DU&t=2h58m24s) — [**Bien choisir son outil de prototypage (en 2018)**](https://www.paris-web.fr/2018/conferences/bien-choisir-son-outil-de-prototypage-en-2018.php) - *Thibault Cabanas*
