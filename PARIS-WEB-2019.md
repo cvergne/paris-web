@@ -7,11 +7,11 @@ Celui-ci contient généralement le support de présentation de la conférence, 
 ### 10 Octobre 2019
 *[Matin](https://www.youtube.com/watch?v=CiAqvTwtVeE)*
 
-* [0:24:25](https://www.youtube.com/watch?v=CiAqvTwtVeE&t=14m00s) — **Conférence d’ouverture**
-* ~[0:00:00](https://www.youtube.com/watch?v=CiAqvTwtVeE&t=00m00s)~ — [**VPTCS, un modèle transversal pour la qualité de l'expérience utilisateur**](https://www.paris-web.fr/2019/conferences/vptcs-un-modele-transversal-pour-la-qualite-de-lexperience-utilisateur.php) - Par [Eric Gateau](https://www.paris-web.fr/orateurs/eric-gateau.php) et [Elie Sloïm](https://www.paris-web.fr/orateurs/elie-sloim.php)
-* ~[0:00:00](https://www.youtube.com/watch?v=CiAqvTwtVeE&t=00m00s)~ — [**Git reset : rien ne se perd, tout se transforme**](https://www.paris-web.fr/2019/conferences/git-reset-rien-ne-se-perd-tout-se-transforme.php) - Par [Maxime Bréhin](https://www.paris-web.fr/orateurs/maxime-brehin.php)
-* ~[0:00:00](https://www.youtube.com/watch?v=CiAqvTwtVeE&t=00m00s)~ — [**Réinventons les audits d'accessibilité web**](https://www.paris-web.fr/2019/conferences/reinventons-les-audits-accessibilite-web.php) - Par [Julie Moynat](https://www.paris-web.fr/orateurs/julie-moynat.php)
-* ~[0:00:00](https://www.youtube.com/watch?v=CiAqvTwtVeE&t=00m00s)~ — [**Outils pour sites statiques modernes à l'intention du développeur paresseux**](https://www.paris-web.fr/2019/conferences/outils-pour-sites-statiques-modernes-a-lintention-du-developpeur-paresseux.php) - Par [David Sferruzza](https://www.paris-web.fr/orateurs/david-sferruzza.php)
+* [0:14:00](https://www.youtube.com/watch?v=CiAqvTwtVeE&t=14m00s) — **Conférence d’ouverture**
+* [0:27:09](https://www.youtube.com/watch?v=CiAqvTwtVeE&t=27m09s) — [**VPTCS, un modèle transversal pour la qualité de l'expérience utilisateur**](https://www.paris-web.fr/2019/conferences/vptcs-un-modele-transversal-pour-la-qualite-de-lexperience-utilisateur.php) - Par [Eric Gateau](https://www.paris-web.fr/orateurs/eric-gateau.php) et [Elie Sloïm](https://www.paris-web.fr/orateurs/elie-sloim.php)
+* [1:19:00](https://www.youtube.com/watch?v=CiAqvTwtVeE&t=1h19m00s) — [**Git reset : rien ne se perd, tout se transforme**](https://www.paris-web.fr/2019/conferences/git-reset-rien-ne-se-perd-tout-se-transforme.php) - Par [Maxime Bréhin](https://www.paris-web.fr/orateurs/maxime-brehin.php)
+* ~[2:22:15](https://www.youtube.com/watch?v=CiAqvTwtVeE&t=2h22m15s)~ — [**Réinventons les audits d'accessibilité web**](https://www.paris-web.fr/2019/conferences/reinventons-les-audits-accessibilite-web.php) - Par [Julie Moynat](https://www.paris-web.fr/orateurs/julie-moynat.php)
+* ~[3:21:25](https://www.youtube.com/watch?v=CiAqvTwtVeE&t=3h21m25s)~ — [**Outils pour sites statiques modernes à l'intention du développeur paresseux**](https://www.paris-web.fr/2019/conferences/outils-pour-sites-statiques-modernes-a-lintention-du-developpeur-paresseux.php) - Par [David Sferruzza](https://www.paris-web.fr/orateurs/david-sferruzza.php)
 
 *[Après-midi](https://www.youtube.com/watch?v=dze1fu1wgOY)*
 
@@ -39,10 +39,10 @@ Celui-ci contient généralement le support de présentation de la conférence, 
 ### 10 Octobre 2019
 *[Matin](https://www.youtube.com/watch?v=uAfrgIgdwhE)*
 
-* ~[0:00:00](https://www.youtube.com/watch?v=uAfrgIgdwhE&t=00m00s)~ — [**Souriez, vous êtes cartographiés**](https://www.paris-web.fr/2019/conferences/souriez-vous-etes-cartographies.php) - Par [Jérémy Renard](https://www.paris-web.fr/orateurs/jeremy-renard.php)
-* ~[0:00:00](https://www.youtube.com/watch?v=uAfrgIgdwhE&t=00m00s)~ — [**Design éthique, de l'essence à la pratique**](https://www.paris-web.fr/2019/conferences/design-ethique-de-lessence-a-la-pratique.php) - Par [Véronique Lapierre](https://www.paris-web.fr/orateurs/veronique-lapierre-1.php)
-* ~[0:00:00](https://www.youtube.com/watch?v=uAfrgIgdwhE&t=00m00s)~ — [**Autocritique de la revue de code (bienveillante)**](https://www.paris-web.fr/2019/conferences/autocritique-de-la-revue-de-code-bienveillante.php) - Par [Kim Lai Trinh](https://www.paris-web.fr/orateurs/kim-lai-trinh.php)
-* ~[0:00:00](https://www.youtube.com/watch?v=uAfrgIgdwhE&t=00m00s)~ — [**La pratique artistique : une forme critique du web, apprenez à en tirer parti**](https://www.paris-web.fr/2019/conferences/la-pratique-artistique-un-forme-critique-du-web-apprenez-a-en-tirer-parti.php) - Par [Louis Frehring](https://www.paris-web.fr/orateurs/louis-frehring.php)
+* [0:00:00](https://www.youtube.com/watch?v=uAfrgIgdwhE&t=00m00s) — [**Souriez, vous êtes cartographiés**](https://www.paris-web.fr/2019/conferences/souriez-vous-etes-cartographies.php) - Par [Jérémy Renard](https://www.paris-web.fr/orateurs/jeremy-renard.php)
+* [0:58:02](https://www.youtube.com/watch?v=uAfrgIgdwhE&t=58m02s) — [**Design éthique, de l'essence à la pratique**](https://www.paris-web.fr/2019/conferences/design-ethique-de-lessence-a-la-pratique.php) - Par [Véronique Lapierre](https://www.paris-web.fr/orateurs/veronique-lapierre-1.php)
+* [1:45:32](https://www.youtube.com/watch?v=uAfrgIgdwhE&t=1h45m32s) — [**Autocritique de la revue de code (bienveillante)**](https://www.paris-web.fr/2019/conferences/autocritique-de-la-revue-de-code-bienveillante.php) - Par [Kim Lai Trinh](https://www.paris-web.fr/orateurs/kim-lai-trinh.php)
+* [2:44:41](https://www.youtube.com/watch?v=uAfrgIgdwhE&t=2h44m41s) — [**La pratique artistique : une forme critique du web, apprenez à en tirer parti**](https://www.paris-web.fr/2019/conferences/la-pratique-artistique-un-forme-critique-du-web-apprenez-a-en-tirer-parti.php) - Par [Louis Frehring](https://www.paris-web.fr/orateurs/louis-frehring.php)
 
 
 *[Après-midi](https://www.youtube.com/watch?v=eYg0ufx9KEw)*
